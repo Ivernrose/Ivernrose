@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ivernrose
-- 👀 I’m interested in game dev
+- 👀 I’m interested in Mobile app
 - 🌱 I’m currently learning c# on unity and visual studio code
 - 💞️ I’m looking to collaborate on game!
 - 📫 How to reach me --> kocakfarukomer@gmail.com and my instagram @omerfarukkocak
