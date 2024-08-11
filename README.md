@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ivernrose
 - 👀 I’m interested in Mobile app
-- 🌱 I’m currently learning c# on unity and visual studio code
-- 💞️ I’m looking to collaborate on game!
+- 🌱 I’m currently learning React Native on visual studio code
+- 💞️ I would like to work with a team that will improve myself in this field.
 - 📫 How to reach me --> kocakfarukomer@gmail.com and my instagram @omerfarukkocak
 
 <!---
