@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ivernrose
+- 👋 Hi, I’m @omerfarukkocak
 - 👀 I’m interested in Mobile app
 - 🌱 I’m currently learning React Native on visual studio code
 - 💞️ I would like to work with a team that will improve myself in this field.
